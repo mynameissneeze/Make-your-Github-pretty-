@@ -439,7 +439,15 @@ Good places to find GIFs: Giphy, Tenor, Tumblr, Pinterest.
 - Don't be afraid to try new decorations.
 
 ---
+<br>
 
+<div align="center">
+  
 # 🌸 Happy Decorating! 🌸
 
+<br>
+
 <img width="585" height="20" alt="scrollbar" src="https://github.com/user-attachments/assets/40451944-5ab3-42c2-b6ce-efd337d7cde1" />
+
+</div>
+<br>
