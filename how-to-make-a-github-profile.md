@@ -1,3 +1,5 @@
+<br> wanna buy a commission? go here: https://ko-fi.com/mynameissneeze 
+
 # 🌸 GitHub Profile Guide for Complete Beginners 🌸
 
 Don't worry if you've never used GitHub before! This guide is for anyone who wants to make a cute, decorated, or personalized GitHub profile.
