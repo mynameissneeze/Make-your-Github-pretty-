@@ -2,6 +2,7 @@
 
 <div align="center">
 wanna buy a commission? go here: https://ko-fi.com/mynameissneeze
+<b> My Github as an example: https://github.com/mynameissneeze 
 <img width="585" height="49" alt="tumblr_..." src="https://github.com/user-attachments/assets/2ffa73d6-f5e7-49ef-b91f-a161d5af5ede" />
 
 </div>
