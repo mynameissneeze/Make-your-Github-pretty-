@@ -1,10 +1,11 @@
+<br>
+
 <div align="center">
+wanna buy a commission? go here: https://ko-fi.com/mynameissneeze
+<img width="585" height="49" alt="tumblr_..." src="https://github.com/user-attachments/assets/2ffa73d6-f5e7-49ef-b91f-a161d5af5ede" />
 
-<br> wanna buy a commission? go here: https://ko-fi.com/mynameissneeze 
-
-<img width="585" height="49" alt="tumblr_b191f522458ed05a21e7c31321306751_ee12464c_400" src="https://github.com/user-attachments/assets/2ffa73d6-f5e7-49ef-b91f-a161d5af5ede" />
-
-</p>
+</div>
+<br>
 
 # 🌸 GitHub Profile Guide for Complete Beginners 🌸
 
