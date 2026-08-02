@@ -1,4 +1,10 @@
+<div align="center">
+
 <br> wanna buy a commission? go here: https://ko-fi.com/mynameissneeze 
+
+<img width="585" height="49" alt="tumblr_b191f522458ed05a21e7c31321306751_ee12464c_400" src="https://github.com/user-attachments/assets/2ffa73d6-f5e7-49ef-b91f-a161d5af5ede" />
+
+</p>
 
 # 🌸 GitHub Profile Guide for Complete Beginners 🌸
 
@@ -434,3 +440,5 @@ Good places to find GIFs: Giphy, Tenor, Tumblr, Pinterest.
 ---
 
 # 🌸 Happy Decorating! 🌸
+
+<img width="585" height="20" alt="scrollbar" src="https://github.com/user-attachments/assets/40451944-5ab3-42c2-b6ce-efd337d7cde1" />
